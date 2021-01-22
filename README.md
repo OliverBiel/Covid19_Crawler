@@ -2,4 +2,4 @@
 
 *This programs was developed by OliverBiel*
 
-This is repository made to post my python programs :)
+This repository was made to post my python programs :)
