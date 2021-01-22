@@ -1,3 +1,9 @@
+"""
+    *** This is a simple code that crawls COVID-19 data ***
+        Today the only data crawled is the infected and
+        the dead.
+"""
+
 from bs4 import BeautifulSoup
 import requests
 import pyperclip
